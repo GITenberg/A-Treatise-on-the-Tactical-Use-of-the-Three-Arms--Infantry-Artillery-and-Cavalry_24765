@@ -1,0 +1,30 @@
+_repo: A-Treatise-on-the-Tactical-Use-of-the-Three-Arms--Infantry-Artillery-and-Cavalry_24765
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lippitt, Francis J. (Francis James)
+    birthdate: 1812
+    deathdate: 1902
+    gutenberg_agent_id: '26721'
+    url: http://www.gutenberg.org/2009/agents/26721
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2008-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24765'
+  lccn: '18009566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tactics'
+- !lcc 'U'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+title: 'A Treatise on the Tactical Use of the Three Arms: Infantry, Artillery, and
+  Cavalry'
+url: http://www.gutenberg.org/ebooks/24765
